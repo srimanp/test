@@ -5,7 +5,7 @@ private int id;
 private String name;
 private float salary;
 private String designation;
-
+private String Rno;
 
 public int getId() {
 	return id;
